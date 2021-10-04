@@ -56,7 +56,7 @@ and puts a file called `devpops.go` in directories where it found existing golan
 a possible repo it could use.
 Note that none of these are vulnerabilities or shortcomings, it just happens that (by design), all the DevOps
 features are aligned so nicely, that it creates a *DevPops* opportunity for us. *DevPops* is sort of a quine,
-the kind if fascinating programs, that print the source of itself. As such, it can even spread across architectures
+the kind of fascinating programs, that print the source of itself. As such, it can even spread across architectures
 and platforms. I leave the rest of the fun analyzing the details and reading the source to you.
 
 I have to admit, I was too lazy to make a new paper out of it and I did not even research whether there is
