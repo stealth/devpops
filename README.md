@@ -44,7 +44,7 @@ such topics long ago. I want to put your focus on a thesis from 1980, four years
 his famous experiments.
 
 In my paper from 2009, the companion used a terminal injection vulnerability (CVE-2008-2383) for spreading.
-There was no git and golang back then. Due to the DevOps practise, git and cross-platform development
+Git and golang were not very widespread back then. Due to the DevOps practise, git and cross-platform development
 everywhere, the issue of companions becomes even more interesting. Tight coupling of Devel, Test and Release,
 Code-Share and Collaboration-Everywhere create exactly an environment for companions that no longer need
 vulnerabilities to spread. The "process" is doing that.
