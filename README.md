@@ -1,6 +1,11 @@
 DevPops
 =======
 
+<p align="center">
+<img src="https://github.com/stealth/devpops/blob/master/274px-ISO_7010_W009.svg.png" />
+</p>
+
+
 *DevPops* continues my research on companion worms. It is a friendly companion without payload and without modifying
 any source files. The spreading vectors are gits.
 
@@ -63,4 +68,8 @@ I have to admit, I was too lazy to make a new paper out of it and I did not even
 similar stuff already in existence on vxheaven or elsewhere, as the idea seems very obvious. If you happen to have
 your own research on it or make virii experiments at research labs or universities, feel free to give me a hint.
 
+Ressources
+----------
+
+The biohazard sign was taken from Wikipedia and is under public domain.
 
