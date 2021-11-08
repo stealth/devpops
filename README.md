@@ -68,8 +68,8 @@ I have to admit, I was too lazy to make a new paper out of it and I did not even
 similar stuff already in existence on vxheaven or elsewhere, as the idea seems very obvious. If you happen to have
 your own research on it or make virii experiments at research labs or universities, feel free to give me a hint.
 
-Ressources
-----------
+Resources
+---------
 
 The biohazard sign was taken from Wikipedia and is under public domain.
 
